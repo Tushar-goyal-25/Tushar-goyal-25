@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I like to start projects and actually finish them**
 
+- check out my website https://tushar-goyal.lovable.app
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tushar goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar goyal" height="30" width="40" /></a>
