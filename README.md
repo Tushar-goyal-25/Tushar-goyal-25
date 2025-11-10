@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I like to start projects and actually finish them**
 
-- check out my website https://tushar-goyal.lovable.app
+- check out my website https://tushargoyal.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
